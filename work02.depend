@@ -1,0 +1,50 @@
+# depslib dependency file v1.0
+1592499617 source:c:\users\user\desktop\sprout02\exercise.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"bmp_handler.h"
+
+1590224889 c:\users\user\desktop\sprout02\bmp_handler.h
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cmath>
+
+1590195260 source:c:\users\user\desktop\sprout02\palette.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+
+1590195260 c:\users\user\desktop\sprout02\palette.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+
+1592672638 source:c:\users\user\desktop\sprout2020-windows\exercise.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"bmp_handler.h"
+
+1590224889 c:\users\user\desktop\sprout2020-windows\bmp_handler.h
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cmath>
+
+1592720204 source:c:\users\user\desktop\sprout 02 owo\exercise.cpp
+	<iostream>
+	<cstdlib>
+	<iomanip>
+	"bmp_handler.h"
+
+1590224889 c:\users\user\desktop\sprout 02 owo\bmp_handler.h
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+	<cmath>
+
